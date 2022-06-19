@@ -17,7 +17,7 @@ You can download Faad [here](https://rarewares.org/aac-decoders.php) and Faac [h
 
 **Step 3:**
 
-Make sure Faac, Faad and [hereisyourflag.m4a](https://github.com/kietbl/Research/blob/main/Music%20To%20My%20Ears/hereisyourflag.m4a) are in same place.
+Make sure Faac, Faad and [hereisyourflag.m4a](https://github.com/kietbl/Research/blob/main/Music%20To%20My%20Ears/hereisyourflag.m4a) are in the same place.
 
 I open [it](https://github.com/kietbl/Research/blob/main/Music%20To%20My%20Ears/hereisyourflag.m4a) with Hex Editor.
 
