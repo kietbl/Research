@@ -4,9 +4,11 @@ Link: https://ctflearn.com/challenge/220
 ![image](https://user-images.githubusercontent.com/94149390/174475412-33f2c08e-60a2-411d-b828-a1741199f5f7.png)
 
 **Step 1:** 
+
 I download file from: https://mega.nz/#!jexRzTzD!Fd3tD8ZcLquXJrsycMFUzozC9MHqaG-srUBfGREtL-0
 
 **Step 2:**
+
 I open [hereisyourflag.m4a](https://github.com/kietbl/Research/blob/main/Music%20To%20My%20Ears/hereisyourflag.m4a) but it is corrupted.
 
 So, I use Faad and Faac to fix it.
@@ -14,6 +16,7 @@ So, I use Faad and Faac to fix it.
 You can download Faad [here](https://rarewares.org/aac-decoders.php) and Faac [here](https://rarewares.org/aac-encoders.php)
 
 **Step 3:**
+
 Make sure Faac, Faad and [hereisyourflag.m4a](https://github.com/kietbl/Research/blob/main/Music%20To%20My%20Ears/hereisyourflag.m4a) are in same place.
 
 I open [it](https://github.com/kietbl/Research/blob/main/Music%20To%20My%20Ears/hereisyourflag.m4a) with Hex Editor.
@@ -43,11 +46,13 @@ Type ***faad.exe "hereisyourflag.m4a"***
 the file will decode to ***hereisyourflag.wav***
 
 **Step 5:**
+
 In cmd, type ***faac.exe -b 160 -o repaired.m4a “hereisyourflag.wav”*** (you can replace "repaired.m4a" with any name you like)
 
 You will get file name "repaired.m4a".
 
 **Step 6:**
+
 Open repaired.m4a and listen to the flag ;)
 
 Flag: 
