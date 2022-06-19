@@ -37,7 +37,7 @@ Ctrl S to save file.
 
 Using Faad to decode file.
 
-Using cmd, cd to the folder that contain Faad, Faac and [hereisyourflag.m4a](https://github.com/kietbl/Research/blob/main/Music%20To%20My%20Ears/hereisyourflag.m4a)
+Open cmd, cd to the folder that contain Faad, Faac and [hereisyourflag.m4a](https://github.com/kietbl/Research/blob/main/Music%20To%20My%20Ears/hereisyourflag.m4a)
 
 Type ***faad.exe "hereisyourflag.m4a"***
 
