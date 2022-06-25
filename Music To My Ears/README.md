@@ -49,7 +49,7 @@ the file will decode to ***hereisyourflag.wav***
 
 In cmd, type ***faac.exe -b 160 -o repaired.m4a “hereisyourflag.wav”*** (you can replace "repaired.m4a" with any name you like)
 
-You will get file name "repaired.m4a".
+I get file name "repaired.m4a".
 
 **Step 6:**
 
